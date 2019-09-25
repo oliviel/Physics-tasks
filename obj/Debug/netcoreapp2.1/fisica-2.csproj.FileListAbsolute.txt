@@ -1,0 +1,11 @@
+/Users/oliviel/Documents/unapec/Cuatrimestres/11 cuatrimestre/fisica-2/bin/Debug/netcoreapp2.1/fisica-2.deps.json
+/Users/oliviel/Documents/unapec/Cuatrimestres/11 cuatrimestre/fisica-2/bin/Debug/netcoreapp2.1/fisica-2.runtimeconfig.json
+/Users/oliviel/Documents/unapec/Cuatrimestres/11 cuatrimestre/fisica-2/bin/Debug/netcoreapp2.1/fisica-2.runtimeconfig.dev.json
+/Users/oliviel/Documents/unapec/Cuatrimestres/11 cuatrimestre/fisica-2/bin/Debug/netcoreapp2.1/fisica-2.dll
+/Users/oliviel/Documents/unapec/Cuatrimestres/11 cuatrimestre/fisica-2/bin/Debug/netcoreapp2.1/fisica-2.pdb
+/Users/oliviel/Documents/unapec/Cuatrimestres/11 cuatrimestre/fisica-2/obj/Debug/netcoreapp2.1/fisica-2.csprojAssemblyReference.cache
+/Users/oliviel/Documents/unapec/Cuatrimestres/11 cuatrimestre/fisica-2/obj/Debug/netcoreapp2.1/fisica-2.csproj.CoreCompileInputs.cache
+/Users/oliviel/Documents/unapec/Cuatrimestres/11 cuatrimestre/fisica-2/obj/Debug/netcoreapp2.1/fisica-2.AssemblyInfoInputs.cache
+/Users/oliviel/Documents/unapec/Cuatrimestres/11 cuatrimestre/fisica-2/obj/Debug/netcoreapp2.1/fisica-2.AssemblyInfo.cs
+/Users/oliviel/Documents/unapec/Cuatrimestres/11 cuatrimestre/fisica-2/obj/Debug/netcoreapp2.1/fisica-2.dll
+/Users/oliviel/Documents/unapec/Cuatrimestres/11 cuatrimestre/fisica-2/obj/Debug/netcoreapp2.1/fisica-2.pdb
